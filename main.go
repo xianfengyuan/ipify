@@ -13,7 +13,7 @@ import (
 	"os"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/rdegges/ipify-api/api"
+	"ipify/ipify-api"
 	"github.com/rs/cors"
 )
 
